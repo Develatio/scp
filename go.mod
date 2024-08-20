@@ -1,4 +1,4 @@
-module github.com/povsister/scp
+module github.com/develatio/scp
 
 go 1.15
 
